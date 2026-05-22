@@ -1,0 +1,10 @@
+[project]
+name = "telegram-admin-bot"
+version = "1.0.0"
+description = "A secure Python Telegram admin bot for group/channel moderation"
+requires-python = ">=3.11"
+readme = "README.md"
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
